@@ -1,0 +1,22 @@
+Company,Category,System,Vendor,Annual Cost,Contract End,Users,Owner,Notes
+AcquireCo,CRM,Salesforce Enterprise,Salesforce,$800000,2025-12-31,350,Maria Chen (VP Sales),Core sales platform
+AcquireCo,ERP,NetSuite,Oracle,$450000,2026-06-30,200,Robert Patel (CFO),Finance and operations
+AcquireCo,HRIS,Workday,Workday,$200000,2025-09-30,850,Lisa Thompson (CHRO),All employees
+AcquireCo,Project Management,Jira + Confluence,Atlassian,$95000,2025-03-31,400,Sarah Kim (CTO),Engineering primary
+AcquireCo,Communication,Slack Enterprise,Salesforce,$120000,2025-12-31,850,David Miller (COO),Company-wide
+AcquireCo,Data Warehouse,Snowflake,Snowflake,$350000,2026-01-31,80,Sarah Kim (CTO),Analytics team
+AcquireCo,BI,Tableau,Salesforce,$150000,2025-06-30,120,Robert Patel (CFO),Exec dashboards
+AcquireCo,Marketing Automation,Marketo,Adobe,$180000,2025-08-31,30,James Liu (VP Marketing),Lead nurture campaigns
+AcquireCo,Cloud Infrastructure,AWS,Amazon,$2400000,2026-12-31,200,Sarah Kim (CTO),All production workloads
+AcquireCo,Security,CrowdStrike,CrowdStrike,$85000,2025-11-30,850,Sarah Kim (CTO),Endpoint protection
+TargetCo,CRM,HubSpot Professional,HubSpot,$120000,2025-04-30,100,Rachel Adams (VP Sales),Sales and marketing
+TargetCo,Accounting,QuickBooks Enterprise,Intuit,$25000,month-to-month,15,Tom Nguyen (Shared Services),Finance only
+TargetCo,HRIS,BambooHR,BambooHR,$28000,2025-07-31,320,Tom Nguyen (Shared Services),All employees
+TargetCo,Project Management,Asana Business,Asana,$35000,2025-05-31,180,Tom Nguyen (Shared Services),All teams
+TargetCo,Communication,Microsoft Teams,Microsoft,$48000,2025-12-31,320,Tom Nguyen (Shared Services),Company-wide
+TargetCo,Data,PostgreSQL (self-managed),Open Source,$0,N/A,30,Engineering,Self-hosted databases
+TargetCo,Data,Google BigQuery,Google,$85000,month-to-month,25,Engineering,Analytics queries
+TargetCo,BI,Looker,Google,$95000,2025-09-30,40,Tom Nguyen (Shared Services),Business dashboards
+TargetCo,Cloud Infrastructure,Google Cloud Platform,Google,$600000,month-to-month,50,Engineering,All production workloads
+TargetCo,Marketing,HubSpot (built-in),HubSpot,$0,included with CRM,20,Rachel Adams (VP Sales),Email campaigns
+TargetCo,Security,None,N/A,$0,N/A,0,N/A,No dedicated endpoint security tool

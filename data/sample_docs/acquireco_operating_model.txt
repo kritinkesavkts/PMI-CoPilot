@@ -1,0 +1,50 @@
+AcquireCo — Operating Model Overview
+Company: AcquireCo Inc.
+Headquarters: Chicago, IL
+Employees: 850
+Annual Revenue: $120M
+
+Organizational Structure:
+AcquireCo operates a functional organizational model with the following departments:
+- Sales (VP: Maria Chen, 120 employees)
+- Marketing (VP: James Liu, 45 employees)
+- Finance & Accounting (CFO: Robert Patel, 60 employees)
+- Engineering (CTO: Sarah Kim, 200 employees)
+- Operations (COO: David Miller, 150 employees)
+- Human Resources (CHRO: Lisa Thompson, 30 employees)
+- Customer Success (VP: Ahmed Hassan, 80 employees)
+- Legal & Compliance (GC: Jennifer Wu, 15 employees)
+
+Key Systems:
+- CRM: Salesforce Enterprise
+- ERP: NetSuite
+- HRIS: Workday
+- Project Management: Jira + Confluence
+- Communication: Slack, Zoom
+- Data Warehouse: Snowflake
+- BI: Tableau
+- Marketing Automation: Marketo
+
+Key Processes:
+- Lead-to-Cash: Salesforce → NetSuite integration, 45-day average sales cycle
+- Hire-to-Retire: Workday-managed, 30-day onboarding program
+- Financial Close: Monthly close completed by Day 5, NetSuite-driven
+- Customer Onboarding: 14-day implementation cycle, managed in Salesforce
+
+KPIs:
+- Gross Margin: 68%
+- Customer Retention Rate: 92%
+- NPS: 45
+- Employee Retention: 88%
+- ARR Growth: 22% YoY
+
+Vendors & Contracts:
+- AWS (cloud infrastructure, $2.4M/year, contract through 2026)
+- Salesforce Enterprise ($800K/year, renewed Jan 2025)
+- Snowflake ($350K/year)
+- Workday ($200K/year)
+
+Geographic Presence:
+- Primary: United States (Chicago HQ, New York office, San Francisco office)
+- Secondary: London (UK sales team, 25 employees)
+- Emerging: Singapore (APAC expansion, 10 employees)

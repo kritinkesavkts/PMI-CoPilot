@@ -1,0 +1,55 @@
+TargetCo — Operating Model & Organizational Summary
+Company: TargetCo Solutions LLC
+Headquarters: Austin, TX
+Employees: 320
+Annual Revenue: $38M
+
+Organization:
+TargetCo uses a product-line organizational structure:
+- Product Line A (GM: Kevin O'Brien, 95 employees) — enterprise analytics
+- Product Line B (GM: Priya Sharma, 85 employees) — SMB dashboards
+- Shared Services (Director: Tom Nguyen, 60 employees) — IT, HR, Finance
+- Sales & Partnerships (VP: Rachel Adams, 55 employees)
+- Customer Support (Director: Mike Johnson, 25 employees)
+
+Note: Finance is handled by a 6-person team under Shared Services. No dedicated CFO.
+Note: Engineering is split across product lines with no centralized CTO function.
+
+Key Systems:
+- CRM: HubSpot Professional
+- Accounting: QuickBooks Enterprise
+- HRIS: BambooHR
+- Project Management: Asana
+- Communication: Microsoft Teams, Google Meet
+- Data: PostgreSQL (self-managed), Google BigQuery
+- BI: Looker
+- Marketing: HubSpot (built-in)
+
+Key Processes:
+- Lead-to-Cash: HubSpot → QuickBooks, manual invoice generation, 60-day avg sales cycle
+- Hiring: BambooHR, informal onboarding (no documented program)
+- Financial Close: Monthly close by Day 12, manual reconciliation in spreadsheets
+- Customer Onboarding: 30-day average, tracked in Asana
+
+KPIs:
+- Gross Margin: 62%
+- Customer Retention Rate: 85%
+- NPS: 38
+- Employee Retention: 82%
+- ARR Growth: 15% YoY
+
+Vendors & Contracts:
+- Google Cloud Platform ($600K/year, month-to-month)
+- HubSpot Professional ($120K/year)
+- Asana Business ($35K/year)
+- BambooHR ($28K/year)
+
+Geographic Presence:
+- United States only (Austin HQ, remote employees across 12 states)
+- No international presence
+
+Known Issues:
+- Engineering teams have inconsistent coding standards across product lines
+- Customer support uses a shared Gmail inbox rather than a ticketing system
+- No documented disaster recovery or business continuity plan
+- Several key processes rely on tribal knowledge held by 2-3 individuals
